@@ -6,7 +6,7 @@ This project features a fully-implemented AVL tree structure, intricately integr
 
 ## Project Files
 
-- solution.py contains the full AVL tree implementation as well as the application functions.
+- AVL_implementation.py contains the full AVL tree implementation as well as the application functions(fit,predict).
 
 
 
