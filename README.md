@@ -22,6 +22,7 @@ left_rotate, right_rotate, rebalance: Essential for maintaining tree balance.
 inorder, preorder, postorder, levelorder: Traversal methods for various use cases.
 visualize: Generates a visual representation of the tree structure.
 Integration with Machine Learning: The NearestNeighborClassifier leverages the AVL tree for efficient data storage and retrieval, crucial for the k-Nearest Neighbors algorithm.
+
 Machine Learning Application
 
 NearestNeighborClassifier: A one-dimensional classifier using AVL tree lookups, designed for high-resolution data classification.
@@ -29,9 +30,11 @@ Training and Prediction: Incorporates methods like fit and predict for training 
 
 ## Key Features
 
-Efficient Data Handling: AVL tree ensures optimal data management with logarithmic operation time.
-Fairness and Precision: The system leverages past data for unbiased decision-making in application reviews.
-Automated and Streamlined Process: Facilitates a faster, more efficient, and bias-free review process.
+-Efficient Data Handling: AVL tree ensures optimal data management with logarithmic operation time.
+
+-Fairness and Precision: The system leverages past data for unbiased decision-making in application reviews.
+
+-Automated and Streamlined Process: Facilitates a faster, more efficient, and bias-free review process.
 
 ## Technologies Used
 
@@ -42,8 +45,11 @@ k-Nearest Neighbors Algorithm
 ## Setup and Installation
 
 Clone the repository to your local machine.
+
 Ensure Python is installed on your system.
+
 Navigate to the project directory.
+
 Run solution.py to execute the application.
 
 ## Usage
@@ -54,6 +60,7 @@ The system processes application data, classifying each application based on its
 ## Contributions
 
 Developed by: Shams Alkhalidy
+
 Inspired by SpartaHack 8's success and challenges.
 
 ## Contact
