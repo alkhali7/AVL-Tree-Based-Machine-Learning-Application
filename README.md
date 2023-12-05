@@ -39,7 +39,9 @@ Training and Prediction: Incorporates methods like fit and predict for training 
 ## Technologies Used
 
 Python
+
 AVL Trees
+
 k-Nearest Neighbors Algorithm
 
 ## Setup and Installation
